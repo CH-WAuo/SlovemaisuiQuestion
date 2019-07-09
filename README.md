@@ -15,4 +15,5 @@ python3 SolvemaisuiQuestion.py
 ```
 
 # 效果图
-![Figure] (https://github.com/CH-WAuo/FindSheep/edit/master/Figure_1.png)
+![Figure] (https://github.com/CH-WAuo/SlovemaisuiQuestion/edit/master/效果图.jpg)
+![Figure] (https://github.com/CH-WAuo/SlovemaisuiQuestion/edit/master/概率论算出的结果.jpg)
